@@ -12,6 +12,9 @@
   Clone this repo, then install express and sequelize packages.
   ## Usage
   In the command line type npm run seed and then node server.js and then you may interact with the app. [Video walkthrough](https://drive.google.com/file/d/1t6ig2kUQGameemD-2JuxBzzX1E1Eb9_R/view)
+
+  ![image](https://github.com/AlexHappel/E-commerce/assets/156026228/447ddbe2-8c63-4267-bdde-525145fdc999)
+
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   This application is covered under MIT.
